@@ -51,6 +51,8 @@ echo "./bashrc/info.sh" >> .bashrc
 💾  /dev/sda1 Usage       : [████████          ] 40% - 1.4T / 3.6T (/media/tayfun/Toshiba4T)
 ```
 
+![image](https://github.com/user-attachments/assets/e282ce75-a44d-4345-806f-f25a0d9cd370)
+
 
 **Customization**
 
