@@ -47,16 +47,17 @@ echo "./bashrc/info.sh" >> .bashrc
 🔧  Kernel        : 5.15.0-76-generic
 ☀️  Weather       : 🌦️Light rain 20°C 88% (Your Location)
 ---------------------------------------------------------
-💾  /dev/nvme0n1p2 Usage  : [███████████       ] 55% - 55G / 100G (/)
-💾  /dev/sda1 Usage       : [████████          ] 40% - 1.4T / 3.6T (/media/tayfun/Toshiba4T)
+💽  /dev/nvme0n1p2 Usage  : [███████████       ] 55% - 55G / 100G (/)
+💽  /dev/sda1 Usage       : [████████          ] 40% - 1.4T / 3.6T (/media/tayfun/Toshiba4T)
 ```
 
+**A Picture from Termius app in iPad**
 ![image](https://github.com/user-attachments/assets/e282ce75-a44d-4345-806f-f25a0d9cd370)
 
 
 **Customization**
 
-To customize the script for different mount points or additional features, you can edit the monitor.sh script and modify the show_disk_usage function to include additional or different mount points.
+To customize the script for different mount points or additional features, you can edit the info.sh script and modify the show_disk_usage function to include additional or different mount points.
 
 **License**
 
