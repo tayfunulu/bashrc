@@ -1,4 +1,5 @@
 # System Resource Monitor Script (.bashrc)
+**Minimal MOTD**
 
 This bash script provides a summary of system resources including date & time, external IP address, memory usage, CPU temperature, system uptime, kernel version, weather information, and disk usage. The output is formatted to ensure alignment and readability.
 
